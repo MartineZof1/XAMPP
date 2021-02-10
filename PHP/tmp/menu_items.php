@@ -1,6 +1,6 @@
 <?php
 
-function getMenuItem() {
+function getMenuItems() {
 	return array (
 		'Home' => 'index.php',
 		'Gallery' => 'gallery.php',
